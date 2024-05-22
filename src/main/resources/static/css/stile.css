@@ -1,0 +1,259 @@
+.font-roboto {
+    font-family: 'Roboto';
+    font-weight: 300;
+}
+.nav-item{
+    font-size: 1rem;
+}
+.text-footer{
+    color: #585858;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+.dropdown-toggle{
+    font-size: 1rem;
+}
+.dropdown{
+    font-size: 1rem;
+}
+
+.bold-text {
+    font-weight: 500;
+}
+
+.top-logo {
+    width: 160px;
+    padding: 10px 30px 10px 5px;
+}
+
+.grey-fon {
+    background-color: #f9fafe !important;
+}
+
+.otstup_top{
+    padding-top: 0.5rem;
+}
+
+.card-adres{
+    padding: 0;
+    margin: 0;
+    color: #085a98;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.card-title{
+  color: #085a98 !important;
+}
+.top-tel{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.0rem;
+    color: #2d2e30;
+}
+.card-text{
+     font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 1.1rem;
+    color: #3f3f3f;
+    margin: 0;
+    padding: 0;
+}
+.card-sport{
+    padding: 0 0 0.3rem 0;
+    margin: 0;
+    color: #6f7071;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+.paragraph{
+    margin: 0;
+    padding: 0;
+    color: #2d3034;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 1.1rem;
+    text-align: justify;
+    text-indent: 25px;
+}
+.category-heading{
+    color: #335e94;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.0rem;
+}
+
+.sbros_otstupov{
+    margin: 0;
+    padding: 0;
+}
+
+.date-card{
+     padding: 0 0 0.3rem 0;
+     margin: 0;
+    color: #677389;
+}
+.main-title{
+    color: #525152;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.6rem;
+    padding: 0;
+}
+.time_card{
+    color: #335e94;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.6rem;
+    padding: 0;
+}
+.zag_card{
+    color: #335e94;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.1rem;
+    padding: 1rem 0 0 0;
+}
+.title_h2{
+    color: #335e94;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 2rem;
+    padding: 1.3rem 0;
+}
+.title_h3{
+    color: #525152;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    padding: 1rem 0 0 0;
+}
+.main-title-niz{
+    color: #335e94;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.6rem;
+    padding: 0.4rem 0 0rem 0;
+}
+.minbloc{
+    min-height: 23rem;
+}
+
+.v-otstup-big{
+    padding-top: 2rem;
+}
+.v-otstup-veri-big{
+    padding-top: 9rem;
+}
+.v-otstup-min{
+    padding-top: 2rem;
+}
+.table-width{
+    max-width: 100px !important;
+
+}
+
+
+.truncate-text-4 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 7;
+  -webkit-box-orient: vertical;
+  line-height: 1.3em;
+  height: 9em;
+}
+
+
+.active > .page-link, .page-link.active {
+    background-color: #6f7071 !important;
+    border-color: #6f7071;
+}
+
+.page-link {
+  color: #6f7071;
+}
+
+.text-opisanie{
+    padding: 0;
+    margin: 0;
+    color: #2b2c2c;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 1.1rem;
+    text-align: justify;
+}
+.text-zag{
+    color: #335e94;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.4rem;
+    padding: 0.4rem 0 0.4rem 0;
+}
+.text-podzag{
+    color: #335e94;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.1rem;
+    padding: 0;
+}
+.osn_spisok {
+    padding-left: 1rem;
+    list-style-type: none;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+
+
+ .icon-circle {
+     width: 140px;
+    border-radius: 10% !important;
+     box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+.truncate-text-3 {
+  width: 150px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.left-text{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 0.9rem;
+    padding: 0;
+    margin: 0;
+}
+.left-text-zag{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 1.1rem;
+    padding: 0;
+    margin: 0;
+}
+.card-subtitle{
+    text-transform: uppercase;
+}
+.nav-link{
+    color: #222;
+}
+.nav-link:hover {
+  color: red;
+}
+.drop-login {
+color: #222;
+}
+.btn-link{
+    color: #222;
+}
+.btn-link:hover {
+  color: red;
+}
+.back_reg{
+    background-image: url("../img/registr.jpg");
+}
